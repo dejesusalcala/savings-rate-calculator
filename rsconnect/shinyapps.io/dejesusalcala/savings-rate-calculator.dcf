@@ -1,0 +1,12 @@
+name: savings-rate-calculator
+title: savings-rate-calculator
+username: dejesusalcala
+account: dejesusalcala
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17898265
+bundleId: 12549995
+url: https://dejesusalcala.shinyapps.io/savings-rate-calculator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
